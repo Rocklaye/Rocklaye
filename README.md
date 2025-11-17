@@ -1,4 +1,4 @@
-# Junior Cybersecurity Analyst | Pentester | Network Administrator
+# Junior Cybersecurity Analyst | Pentester | Network Administrator 
 The quieter you become, the more you are able to hear.
 <!--
 **Rocklaye/Rocklaye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
