@@ -40,6 +40,6 @@ I am progressively building expertise in offensive security, system hardening, a
 
 ## 🔗 Links
 
-- 🌐 Portfolio — [https://github.com/Rocklaye/rocklaye.github.io](https://rocklaye.github.io/)
+- 🌐 Portfolio - [https://github.com/Rocklaye/rocklaye.github.io](https://rocklaye.github.io/)
 
 ---
