@@ -1,4 +1,6 @@
 # Cybersecurity Analyst | Pentester | Network Administrator 
+`eJPT` `SC-200` `CyberOps Associate` `CCNA` `ISC2 CC` `Fortinet Administratior` `Ethical Hacker (Cisco)`
+
 
 <!--
 **Rocklaye/Rocklaye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
