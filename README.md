@@ -1,7 +1,8 @@
 # Cybersecurity Analyst · Pentester · Network Administrator
----
+
 `eJPT` · `SC-200` · `CyberOps Associate` · `CCNA` · `ISC2 CC` · `Fortinet Administrator` · `Ethical Hacker (Cisco)`
 
+---
 Cybersecurity enthusiast, I focus on understanding systems inside out to better master their security. Passionate about the technical field and always eager to learn, I practice in real-world environments and document my projects publicly.
 
 I am progressively building expertise in offensive security, system hardening, and SOC operations, with an approach centered on deep understanding, technical rigor, and continuous learning.
