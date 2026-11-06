@@ -30,8 +30,11 @@ I am progressively building expertise in offensive security, system hardening, a
 
 | Project | What it is |
 |---------|-----------|
+| ☁️ [**azure-hybrid-infrastructure**](https://github.com/Rocklaye/azure-hybrid-infrastructure) | Cloud side of a hybrid enterprise infrastructure linking an on-premise datacenter to **Microsoft Azure**: site-to-site **VPN**, virtual networks, Linux/Windows VMs, synchronized identities (**Entra ID**) and centralized monitoring. Documented step by step with Azure CLI runbooks + **Bicep** IaC. |
 | 🔌 [**IoT-sensor-attack-detection**](https://github.com/Rocklaye/IoT-sensor-attack-detection) | Agentless detection of attacks on IoT sensors by correlating **power consumption** (ACS712) and **network traffic** (Wireshark), across 4 attack scenarios in an isolated lab. |
 | 📹 [**IoT-vulnerability-pivot-exploitation**](https://github.com/Rocklaye/IoT-vulnerability-pivot-exploitation) | Full CVE exploitation chain against IoT devices: SSH brute-force → MITM pivot → **ONVIF replay** → RTSP stream, with concrete hardening recommendations. |
+
+
 
 ---
 
