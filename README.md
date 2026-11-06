@@ -3,9 +3,6 @@
 ### Cybersecurity Analyst · Pentester · Network Administrator
 
 `eJPT` · `SC-200` · `CyberOps Associate` · `CCNA` · `ISC2 CC` · `Fortinet Administrator` · `Ethical Hacker (Cisco)`
-
-M.Sc. student — Cybersecurity · IT Infrastructure · IoT · AI
-
 ---
 
 Cybersecurity enthusiast, I focus on understanding systems inside out to better master their security. Passionate about the technical field and always eager to learn, I practice in real-world environments and document my projects publicly.
@@ -29,8 +26,6 @@ I am progressively building expertise in offensive security, system hardening, a
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?logo=nmap&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?logo=burpsuite&logoColor=white)
 
-**Offensive** Nmap · Nessus · Hydra · Burp Suite · Metasploit  ·  **Defensive/SOC** Microsoft Defender · Sentinel (SC-200) · Fortinet  ·  **Infra** Networking (CCNA) · Raspberry Pi · IoT hardware · Ansible/Vagrant
-
 ---
 
 ## 📌 Featured IoT security projects
@@ -47,8 +42,3 @@ I am progressively building expertise in offensive security, system hardening, a
 - 🌐 Portfolio — [github.com/Rocklaye/abdoulaye-aw.github.io](https://github.com/Rocklaye/abdoulaye-aw.github.io)
 
 ---
-
-<p align="center">
-  <img height="150" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Rocklaye&show_icons=true&hide_border=true&count_private=true" />
-  <img height="150" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rocklaye&layout=compact&hide_border=true" />
-</p>
