@@ -26,7 +26,7 @@ I am progressively building expertise in offensive security, system hardening, a
 
 ---
 
-## 📌 Featured IoT security projects
+## 📌 Featured projects
 
 | Project | What it is |
 |---------|-----------|
