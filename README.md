@@ -3,9 +3,11 @@
 `eJPT` · `SC-200` · `CyberOps Associate` · `CCNA` · `ISC2 CC` · `Fortinet Administrator` 
 
 ---
-Cybersecurity enthusiast, I focus on understanding systems inside out to better master their security. Passionate about the technical field and always eager to learn, I practice in real-world environments and document my projects publicly.
+IT & Cybersecurity enthusiast with a strong interest in system and network administration, infrastructure management, and security operations. I enjoy understanding how systems and networks work, maintaining secure and reliable environments, and solving technical challenges.
 
-I am progressively building expertise in offensive security, system hardening, and SOC operations, with an approach centered on deep understanding, technical rigor, and continuous learning.
+My interests span Linux and Windows administration, networking, cloud, infrastructure automation, offensive security, and SOC operations.
+
+I continuously develop my skills through hands-on labs, practical projects, and technical documentation, with a focus on technical rigor, problem-solving, and continuous learning.
 
 <!--
 **Rocklaye/Rocklaye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
